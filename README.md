@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Awab Al-Shandawi 👋</h1>
+<h1 align="center">Hi, I'm Awab Al-Shandawi </h1>
 <h3 align="center">Software developer · Cybersecurity · AI applications</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 I build practical software across **AI, cybersecurity and full-stack web development**, from local AI voice platforms to autonomous security tools. I like turning complex problems into clean, working products.
 
-## 🚀 Featured projects
+##  Featured projects
 
 | Project | What it is | Built with |
 |---|---|---|
@@ -18,7 +18,7 @@ I build practical software across **AI, cybersecurity and full-stack web develop
 | **[ProPlant](https://github.com/mechanicb0y/ProPlant)** | Plant-care application | TypeScript |
 | **[CoffeeShop App](https://github.com/mechanicb0y/CoffeeShop-App)** | Billing system for a coffee shop | C#, Windows Forms |
 
-## 🛠️ Tech stack
+##  Tech stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,10 +40,10 @@ I build practical software across **AI, cybersecurity and full-stack web develop
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Sigma](https://img.shields.io/badge/Sigma_rules-1F2937?style=flat-square)
 
-## 🎯 Currently
+##  Currently
 
-- 🔊 Building **Mimix**, a local-first AI voice platform
-- 🛡️ Developing **ACT**, an AI-driven cyber twin for real-time threat response
-- 🤝 Open to **internships, collaboration and freelance projects**
+-  Building **Mimix**, a local-first AI voice platform
+-  Developing **ACT**, an AI-driven cyber twin for real-time threat response
+-  Open to **internships, collaboration and freelance projects**
 
 <p align="center"><i>Based in Malaysia 🇲🇾 · Always learning, always building.</i></p>
