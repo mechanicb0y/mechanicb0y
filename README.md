@@ -14,7 +14,7 @@ I build practical software across **AI, cybersecurity and full-stack web develop
 |---|---|---|
 | **[Mimix](https://github.com/mechanicb0y/Mimix)** | AI voice studio that runs on your own computer: text to speech, a Voice Mixer that blends voices, consent-first cloning, dubbing, transcription and a developer API | Next.js, TypeScript, Python, FastAPI, PostgreSQL |
 | **[ACT: Adaptive Cyber Twin](https://github.com/mechanicb0y/ACT-Adaptive_Cyber_Twin)** | Autonomous security analyst that watches a live machine, models the attacker's behaviour, scores the threat and responds through the host firewall | Python, FastAPI, local AI model |
-| **[awab](https://github.com/mechanicb0y/awab)** | Zero-dependency Linux log triage & threat-hunting engine — point it at a log, get a ranked list of likely attacks (brute force, backdoor accounts, persistence, log wiping…), each mapped to MITRE ATT&CK | Rust (std-only, zero dependencies) |
+| **[awab](https://github.com/mechanicb0y/awab)** | Zero-dependency Linux log triage & threat-hunting engine, point it at a log, get a ranked list of likely attacks (brute force, backdoor accounts, persistence, log wiping…), each mapped to MITRE ATT&CK | Rust (std-only, zero dependencies) |
 | **[Passport Extraction System](https://github.com/mechanicb0y/Passport-Extraction-System)** | Extracts data from passport images | JavaScript |
 | **[ProPlant](https://github.com/mechanicb0y/ProPlant)** | Plant-care application | TypeScript |
 | **[CoffeeShop App](https://github.com/mechanicb0y/CoffeeShop-App)** | Billing system for a coffee shop | C#, Windows Forms |
